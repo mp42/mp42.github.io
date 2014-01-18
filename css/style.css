@@ -3,3 +3,7 @@ body {
 	padding:0px;
 	text-align:center;
 }
+
+#main {
+	margin: 20px auto;
+}

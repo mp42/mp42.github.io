@@ -1,0 +1,28 @@
+/*
+ *
+ * Personalized CSS stylings over Bootstrap
+ *
+ *
+ *
+ *
+ */
+
+body {
+	padding-top: 30px;
+	background: url(images/bg.jpg) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+
+.starter-template a:link {
+	color: #000;
+	text-decoration: underline;
+}
+
+.starter-template a:visited {
+	color: #FFF;
+	text-decoration: underline;
+}
+

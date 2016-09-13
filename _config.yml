@@ -19,7 +19,6 @@ timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown
-theme: lanyon
 
 # force Jekyll to show future posts
 future: true

@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I currently work as a software developer at [Redfin](http://www.redfin.com) on the Data Engineering team where we focus on building fast, scalable infrastructure to ingest nation-wide real-estate data.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Other things I've worked on in the past:
+* [MEDInternational](http://www.medinternational-us.org): a non-profit startup focused on providing robust inventory management service for healthcare institutions in developing countries. Customers included a major hospital in Zanziber but we later decided to open-source our code instead.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* [Brown UPOD Group](http://www.upod.io): a small but growing research group under Prof.Littman and Blase Ur (of CMU fame) that focused on investigating, developing and testing home automation tool and user experiences. Relatively young but the group has published papers at 2 CHI conferences.
+
